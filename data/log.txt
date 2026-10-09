@@ -1,0 +1,3 @@
+[2026-09-27T22:19:38.300352] [INFO] Test log entry
+[2026-09-27T22:19:38.301406] [ERROR] This is a test error
+[2026-09-27T22:19:38.302575] [SUCCESS] Database working perfectly
